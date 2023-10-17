@@ -23,4 +23,4 @@ Sample Airbnb dataset on MongoDB Atlas site.
 3. Run the Streamlit app using the command: streamlit run app.py
 4. Provide inputs to get the Selling Price estimate and Status
 
-Demo link: <"Insert LinkedIn link">
+Demo link: https://www.linkedin.com/posts/akash-kumar-singh-37a820150_airbnb-data-analysis-project-source-code-activity-7120065538055114753-NSwN?utm_source=share&utm_medium=member_desktop
